@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: this template is for creating user stories
+about: Describe this issue template's purpose here.
 title: ''
 labels: ''
 assignees: ''
